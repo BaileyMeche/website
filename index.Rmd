@@ -7,11 +7,13 @@ output:
 
 # Hi, I’m **Bailey Meche**
 
-Quant-focused MACSS-Econ student at UChicago. I build research-grade data pipelines, macro/finance models, and reproducible analytics.
+**Quantitative Researcher & Computational Economist** in the MACSS–Econ program at the University of Chicago.  
+I build research-grade pipelines for macro/finance, market microstructure, and reproducible analytics.
 
-- **Interests:** Treasury market microstructure, TIPS–Treasury arbitrage, segmented OTC frictions  
-- **Tooling:** Python, R, C++, SQL, HPC (Midway3/AWS), GCP  
-- **Email:** <you@domain.com> · **CV:** [Download PDF](assets/Bailey_Meche_CV.pdf)
+- **Focus:** Treasury market microstructure, TIPS–Treasury arbitrage, financial frictions, options & fixed income
+- **Tooling:** Python (NumPy, Pandas, Numba, Dask, mpi4py, PySpark), R, Julia, C/C++, MATLAB, JS; HPC & cloud
+- **Platforms:** Midway3 HPC, AWS/GCP; Bloomberg Terminal
+- **Location:** Chicago, IL  ·  **Email:** <baileymeche@uchicago.edu>  ·  **GitHub:** <https://github.com/BaileyMeche>  ·  **LinkedIn:** <https://www.linkedin.com/in/bailey-meche>  <!-- :contentReference[oaicite:1]{index=1} -->
 
 ---
 
@@ -19,21 +21,21 @@ Quant-focused MACSS-Econ student at UChicago. I build research-grade data pipeli
 
 <div class="grid">
   <a class="card" href="https://github.com/your-org/segmented-arbitrage">
-    <h3>Segmented Arbitrage</h3>
-    <p>Replication + extensions on yield mispricing and segmentation.</p>
+    <h3>Segmented Treasury Arbitrage</h3>
+    <p>Replication & extensions on segmented markets and yield mispricing; reproducible R/Python pipeline.</p>
   </a>
   <a class="card" href="https://github.com/your-org/pums-cohesion">
     <h3>Cohesion → Institutions → Growth (2SLS)</h3>
-    <p>PUMA-level pipeline, IV strategy, HC-robust inference.</p>
+    <p>PUMA-level instruments, IV diagnostics, and HC-robust inference for macro-institutions questions.</p>
   </a>
   <a class="card" href="https://github.com/your-org/acs-dashboards">
     <h3>ACS PUMS Dashboards</h3>
-    <p>Interactive maps and indices for social cohesion metrics.</p>
+    <p>Interactive geospatial indices and maps of social cohesion and consolidation.</p>
   </a>
 </div>
 
 ---
 
 ## News
-- 2025-09: Started MACSS-Econ year 2, focusing on market microstructure.
-- 2025-08: Released ACS dashboards v0.3 (performance + docs).
+- 2025-09: Teaching Assistant, MACS 33000 (Comp Math & Stats Camp), SSD, UChicago.  <!-- :contentReference[oaicite:2]{index=2} -->
+- 2024-09 → present: RA on “Local Ties and Community Engagement under Consolidation” (SSS, Chicago-Fed FSRDC).  <!-- :contentReference[oaicite:3]{index=3} -->

@@ -4,15 +4,27 @@ title: "About"
 
 ![Profile](assets/img/profile.jpg)
 
-I’m Bailey Meche—data scientist and economist (MACSS-Econ, UChicago).  
-My work sits at the intersection of **quant finance**, **macro**, and **large-scale data systems**.
+I’m Bailey Meche—**Quantitative Researcher & Computational Economist**.  
+My work sits at the intersection of **financial markets**, **macro**, and **large-scale computation**, with an emphasis on clean, reproducible research.
 
-**Focus areas**
-- Treasury markets, arbitrage, market frictions  
-- Reproducible research: R/Python, Quarto/Rmd, CI/CD  
-- HPC + cloud workflows (Midway3, AWS, GCP)
+### Skills & Tooling
+- **Programming:** Python (NumPy, Pandas, Numba, Dask, mpi4py, PySpark), R, Julia, C/C++, MATLAB, JavaScript  
+- **HPC & Cloud:** Parallel/distributed computing, GPU/accelerators, AWS/GCP; workflow automation  
+- **Domains:** Quant macro, market microstructure, statistical analysis, institutional/demographic analysis  <!-- :contentReference[oaicite:4]{index=4} -->
 
-**Links**
-- [GitHub](https://github.com/baileymeche)
-- [LinkedIn](https://www.linkedin.com/in/baileymeche/)
-- Email: <you@domain.com>
+### Education
+- **University of Chicago — MACSS (Economics)**, expected **June 2026**  
+  Select coursework (economics & financial math): Advanced Macro, Economic Design, Asset Pricing I, Advanced Security Pricing & Credit Risk, Options Pricing, Fixed Income & Derivatives, Macro Finance, Full-Stack Quant Finance, Applied Algorithmic Trading, Modern Applied Optimization, HPC in Finance.  <!-- :contentReference[oaicite:5]{index=5} -->
+- **University of Louisiana at Lafayette — B.S. Mathematics (Honors), Minor: Economics**, **Dec 2023**  
+  Awards: Bradd Clark Award; Activities: Putnam team, ADVANCE Ambassador, Economics Club.  <!-- :contentReference[oaicite:6]{index=6} -->
+
+### Experience
+- **Research Assistant, Sociology (UChicago)** — *Sep 2024 – Present*  
+  ACS-based research on local ties & community engagement; **SSS** for work at the Chicago-Fed FSRDC.  <!-- :contentReference[oaicite:7]{index=7} -->
+- **Teaching Assistant, SSD (UChicago)** — *Jul 2025 – Sep 2025*  
+  MACS 33000 Computational Math & Stats Camp.  <!-- :contentReference[oaicite:8]{index=8} -->
+- **Undergraduate & REU Research (UNC Greensboro; UNT; UL Lafayette)** — 2022–2023  
+  Projects spanning binary RRT models, unequal-variance testing, bioinformatics pipelines; team leadership and model development.  <!-- :contentReference[oaicite:9]{index=9} -->
+
+### Links
+- **GitHub:** <https://github.com/BaileyMeche> · **LinkedIn:** <https://www.linkedin.com/in/bailey-meche> · **Email:** <baileymeche@uchicago.edu>

@@ -18,13 +18,13 @@ navbar:
       href: contact.html
   right:
     - text: "GitHub"
-      href: "https://github.com/baileymeche"
+      href: "https://github.com/BaileyMeche"
     - text: "LinkedIn"
-      href: "https://www.linkedin.com/in/baileymeche/"
+      href: "https://www.linkedin.com/in/bailey-meche"
 
 output:
   html_document:
-    theme: cosmo
+    theme: flatly     # ✅ Supported professional theme
     toc: true
     toc_depth: 2
     highlight: kate

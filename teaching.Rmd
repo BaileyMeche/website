@@ -4,9 +4,12 @@ title: "Teaching"
 
 ## Teaching & Mentoring
 
-**Workshops / Guest Lectures**
-- Reproducible Research with R/Python (2025)  
-- Intro to Treasury Market Microstructure (2025)
+**Teaching Assistant — MACS 33000 (Comp Math & Stats Camp), UChicago**  
+*July 2025 – September 2025*  <!-- :contentReference[oaicite:13]{index=13} -->
+
+**Workshops / Talks (selected)**
+- Reproducible Research with R/Python (materials in progress)
+- Intro to Treasury Market Microstructure (slides in progress)
 
 **Office Hours**
-- By appointment — email <you@domain.com>.
+- By appointment — email <baileymeche@uchicago.edu>.

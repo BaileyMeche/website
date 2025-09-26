@@ -1,0 +1,10 @@
+---
+title: "Contact"
+---
+
+- **Email:** <baileymeche@uchicago.edu>  
+- **GitHub:** <https://github.com/BaileyMeche>  
+- **LinkedIn:** <https://www.linkedin.com/in/bailey-meche>  
+- **Location:** Chicago, IL  <!-- :contentReference[oaicite:14]{index=14} -->
+
+Prefer email for research collaborations; include a short description and timeline.

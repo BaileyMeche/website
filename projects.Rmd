@@ -2,33 +2,33 @@
 title: "Projects"
 ---
 
-Below is a small selection. See more on my [GitHub](https://github.com/baileymeche).
+A selection of current/representative work. Repos available on my [GitHub](https://github.com/BaileyMeche).
 
 <div class="grid">
   <a class="card" href="https://github.com/your-org/segmented-arbitrage">
-    <h3>Segmented Arbitrage</h3>
-    <p>Empirical replication & stress tests. Clean, reproducible pipeline.</p>
+    <h3>Segmented Treasury Arbitrage</h3>
+    <p>Empirical replication + stress tests of segmentation and mispricing. Clean pipelines with Make/Doit.</p>
     <ul>
-      <li>R, Python, Make/Doit</li>
-      <li>Data: Fed curves, TRACE, CRSP (where licensed)</li>
+      <li>R, Python, data.table, fixest; optional Bloomberg data</li>
+      <li>Figures/tables auto-generated for paper-ready output</li>
     </ul>
   </a>
 
   <a class="card" href="https://github.com/your-org/pums-cohesion">
     <h3>Cohesion → Institutions → Growth (2SLS)</h3>
-    <p>PUMA-level instruments; IV diagnostics & HC3/HC1 options.</p>
+    <p>PUMA-level instruments; IV diagnostics (weak IV, over-ID), HC3/HC1 options.</p>
     <ul>
-      <li>R (AER, fixest), data.table</li>
-      <li>Automated figures & tables</li>
+      <li>R (AER, broom), data.table</li>
+      <li>Reproducible IV pipeline & robustness suite</li>
     </ul>
   </a>
 
   <a class="card" href="https://github.com/your-org/acs-dashboards">
     <h3>ACS PUMS Dashboards</h3>
-    <p>Interactive geospatial dashboards for cohesion metrics.</p>
+    <p>Interactive geospatial dashboards for cohesion metrics and consolidation indices.</p>
     <ul>
-      <li>R Shiny / Quarto</li>
-      <li>ACS PUMS microdata</li>
+      <li>Shiny/Quarto; ACS microdata</li>
+      <li>Responsive maps & KPI tiles</li>
     </ul>
   </a>
 </div>

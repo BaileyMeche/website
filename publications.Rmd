@@ -2,10 +2,10 @@
 title: "Publications"
 ---
 
-> A compact list you can maintain manually. If you later want BibTeX-driven pages, we can switch to Quarto + `listing` or a Jekyll-based template.
+### Journal Articles
+- **Meche, B.**, McEntire, N., Hall, M. *et al.* (2024). Effect of unequal variance on statistical tests for mixed paired and two-sample designs. *Journal of Statistical Theory and Practice*, 18, 40.  <!-- :contentReference[oaicite:10]{index=10} -->
+- **Meche, B.**, Poruri, V., Gupta, S., & Khalil, S. (2024). Accounting for Measurement Error and Untruthfulness in Binary RRT Models. *Mathematics*, 12(6), 875.  <!-- :contentReference[oaicite:11]{index=11} -->
+- Gore, S., **Meche, B.**, Shao, D. *et al.* (2024). DiseaseNet: a transfer learning approach to noncommunicable disease classification. *BMC Bioinformatics*, 25, 107.  <!-- :contentReference[oaicite:12]{index=12} -->
 
-- Meche, B. (2024). *Title of Article*. *Journal Name*, Vol(Issue), pages.  
-- Meche, B. & Coauthor (2023). *Another Paper Title*. *Proceedings/Journal*, pages.  
-
-**Working Papers**
-- *Paper draft title*, 2025. In preparation.
+### Working Papers
+- Titles forthcoming.

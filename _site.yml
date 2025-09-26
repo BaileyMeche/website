@@ -24,7 +24,7 @@ navbar:
 
 output:
   html_document:
-    theme: flatly     # ✅ Supported professional theme
+    theme: cosmo     # ✅ Supported professional theme
     toc: true
     toc_depth: 2
     highlight: kate

@@ -1,0 +1,34 @@
+---
+title: "Projects"
+---
+
+Below is a small selection. See more on my [GitHub](https://github.com/baileymeche).
+
+<div class="grid">
+  <a class="card" href="https://github.com/your-org/segmented-arbitrage">
+    <h3>Segmented Arbitrage</h3>
+    <p>Empirical replication & stress tests. Clean, reproducible pipeline.</p>
+    <ul>
+      <li>R, Python, Make/Doit</li>
+      <li>Data: Fed curves, TRACE, CRSP (where licensed)</li>
+    </ul>
+  </a>
+
+  <a class="card" href="https://github.com/your-org/pums-cohesion">
+    <h3>Cohesion → Institutions → Growth (2SLS)</h3>
+    <p>PUMA-level instruments; IV diagnostics & HC3/HC1 options.</p>
+    <ul>
+      <li>R (AER, fixest), data.table</li>
+      <li>Automated figures & tables</li>
+    </ul>
+  </a>
+
+  <a class="card" href="https://github.com/your-org/acs-dashboards">
+    <h3>ACS PUMS Dashboards</h3>
+    <p>Interactive geospatial dashboards for cohesion metrics.</p>
+    <ul>
+      <li>R Shiny / Quarto</li>
+      <li>ACS PUMS microdata</li>
+    </ul>
+  </a>
+</div>

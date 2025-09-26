@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+---
+
+## Teaching & Mentoring
+
+**Workshops / Guest Lectures**
+- Reproducible Research with R/Python (2025)  
+- Intro to Treasury Market Microstructure (2025)
+
+**Office Hours**
+- By appointment — email <you@domain.com>.

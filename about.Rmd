@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+![Profile](assets/img/profile.jpg)
+
+I’m Bailey Meche—data scientist and economist (MACSS-Econ, UChicago).  
+My work sits at the intersection of **quant finance**, **macro**, and **large-scale data systems**.
+
+**Focus areas**
+- Treasury markets, arbitrage, market frictions  
+- Reproducible research: R/Python, Quarto/Rmd, CI/CD  
+- HPC + cloud workflows (Midway3, AWS, GCP)
+
+**Links**
+- [GitHub](https://github.com/baileymeche)
+- [LinkedIn](https://www.linkedin.com/in/baileymeche/)
+- Email: <you@domain.com>

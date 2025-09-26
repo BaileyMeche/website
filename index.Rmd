@@ -1,0 +1,39 @@
+---
+title: "Home"
+output:
+  html_document:
+    toc: false
+---
+
+# Hi, I’m **Bailey Meche**
+
+Quant-focused MACSS-Econ student at UChicago. I build research-grade data pipelines, macro/finance models, and reproducible analytics.
+
+- **Interests:** Treasury market microstructure, TIPS–Treasury arbitrage, segmented OTC frictions  
+- **Tooling:** Python, R, C++, SQL, HPC (Midway3/AWS), GCP  
+- **Email:** <you@domain.com> · **CV:** [Download PDF](assets/Bailey_Meche_CV.pdf)
+
+---
+
+## Featured Projects
+
+<div class="grid">
+  <a class="card" href="https://github.com/your-org/segmented-arbitrage">
+    <h3>Segmented Arbitrage</h3>
+    <p>Replication + extensions on yield mispricing and segmentation.</p>
+  </a>
+  <a class="card" href="https://github.com/your-org/pums-cohesion">
+    <h3>Cohesion → Institutions → Growth (2SLS)</h3>
+    <p>PUMA-level pipeline, IV strategy, HC-robust inference.</p>
+  </a>
+  <a class="card" href="https://github.com/your-org/acs-dashboards">
+    <h3>ACS PUMS Dashboards</h3>
+    <p>Interactive maps and indices for social cohesion metrics.</p>
+  </a>
+</div>
+
+---
+
+## News
+- 2025-09: Started MACSS-Econ year 2, focusing on market microstructure.
+- 2025-08: Released ACS dashboards v0.3 (performance + docs).

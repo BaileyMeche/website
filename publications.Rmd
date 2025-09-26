@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+> A compact list you can maintain manually. If you later want BibTeX-driven pages, we can switch to Quarto + `listing` or a Jekyll-based template.
+
+- Meche, B. (2024). *Title of Article*. *Journal Name*, Vol(Issue), pages.  
+- Meche, B. & Coauthor (2023). *Another Paper Title*. *Proceedings/Journal*, pages.  
+
+**Working Papers**
+- *Paper draft title*, 2025. In preparation.

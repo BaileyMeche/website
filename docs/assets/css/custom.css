@@ -1,0 +1,31 @@
+/* Typography & layout tweaks */
+body { line-height: 1.6; }
+h1, h2, h3 { letter-spacing: .2px; }
+img { max-width: 100%; height: auto; border-radius: 12px; }
+
+/* Simple responsive card grid */
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  margin: 1rem 0;
+}
+.card {
+  display: block;
+  padding: 1rem 1.1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow .2s ease, transform .05s ease;
+}
+.card:hover {
+  box-shadow: 0 8px 22px rgba(0,0,0,.08);
+  transform: translateY(-1px);
+}
+
+/* Tweak navbar spacing if needed */
+.navbar-nav > li > a { padding: 12px 14px; }
+
+/* Code blocks */
+pre code { white-space: pre-wrap; }
